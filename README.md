@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharak Rana</h1>
+<h1 align="center">Hey 👋, I'm Dharak Rana</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 - 📫 How to reach me **dharakrana65@gmail.com**
