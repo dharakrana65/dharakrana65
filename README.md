@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharak Rana</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-- 💬 Ask me about **react , java , javascript**
-
 - 📫 How to reach me **dharakrana65@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/dharak-rana-076738218](www.linkedin.com/in/dharak-rana-076738218)
