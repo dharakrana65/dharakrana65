@@ -47,7 +47,7 @@ I focus on building scalable backend services and seamless integrations for mode
 `MongoDB` `MySQL` `PostgreSQL`
 
 **DevOps & Tools:**  
-`Git` `GitHub` `Docker` `CI/CD` `Figma`
+`Git` `GitHub`
 
 **Other Expertise:**  
 `Real-Time Communication` `Speech-to-Text Systems` `Authentication & Security` `Rate-Limiting` `Server-Side Audio Processing`
