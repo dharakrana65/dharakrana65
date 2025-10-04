@@ -1,21 +1,64 @@
-<h1 align="center">Hey 👋, I'm Dharak Rana</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+# Dharak Rana
 
-- 📫 How to reach me **dharakrana65@gmail.com**
+**Software Engineer | Full-Stack Developer**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dharak-rana-076738218](www.linkedin.com/in/dharak-rana-076738218)
+I’m a software engineer with hands-on experience in **Node.js**, **real-time communication systems**, and **cloud-based speech technologies**.  
+I focus on building scalable backend services and seamless integrations for modern web and mobile applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dharak rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharak rana" height="30" width="40" /></a>
-<a href="https://instagram.com/dharak_65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharak_65" height="30" width="40" /></a>
-<a href="https://discord.gg/#6824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6824" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
+- Passionate about building production-grade backend services and improving real-time communication experiences.
+- Experienced in developing APIs, speech-to-text solutions, PSTN dial-in integrations, and multi-party conferencing tools.
+- Comfortable collaborating across cross-functional teams and optimizing solutions for cost, performance, and reliability.
 
+---
 
+## 💼 Professional Experience
 
+**Software Engineer – WiseDV** *(2023 – Present)*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharakrana65&" alt="dharakrana65" /></p>
+- **Live Closed Captioning & AI Summaries:**  
+  Built a live closed-captioning feature for online meetings using **Oracle OCI Speech SDK**, including searchable transcript history and AI-generated summaries with PDF export.
+
+- **Production-Grade AI API:**  
+  Delivered **WiseAI API**, a secure, scalable Node.js service with authentication, rate-limiting, Redis caching, and prompt-chaining for Oracle GenAI.
+
+- **Speech-to-Text Engine:**  
+  Developed a robust streaming **STT engine** with **AWS Transcribe**, featuring crash-tolerance, fallback mechanisms, detailed logging, and cost-optimized billing.
+
+- **PSTN Dial-In Integration:**  
+  Led the PSTN dial-in project to enable users to join meetings via phone calls without internet. Integrated **WebRTC** with **Inteliquent SIP** and built a custom server-side audio mixer for multi-party conferencing.
+
+- **Cross-Platform Enhancements:**  
+  Improved the **React Native Android app** by adding video overlay, rich-text note-taking, and enhancing Q&A features while resolving critical cross-platform bugs.
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks:**  
+`JavaScript` `Node.js` `React.js` `React Native` `Express.js` `Redux`
+
+**Backend & Infrastructure:**  
+`REST APIs` `WebRTC` `SIP` `Redis` `AWS Transcribe` `Oracle OCI` `Microservices`
+
+**Databases:**  
+`MongoDB` `MySQL` `PostgreSQL`
+
+**DevOps & Tools:**  
+`Git` `GitHub` `Docker` `CI/CD` `Figma`
+
+**Other Expertise:**  
+`Real-Time Communication` `Speech-to-Text Systems` `Authentication & Security` `Rate-Limiting` `Server-Side Audio Processing`
+
+---
+
+## 📫 Contact
+- **Email:** dharakrana65@gmail.com  
+- **LinkedIn:** [linkedin.com/in/dharak-rana-076738218](https://www.linkedin.com/in/dharak-rana-076738218)
+
+---
+
+## 📈 GitHub Stats
+![Dharak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharakrana65&theme=default)
